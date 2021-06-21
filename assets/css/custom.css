@@ -1,0 +1,82 @@
+.nav-custom{
+	background-color: #fff;
+}
+
+#sidebar-menu > ul > li > a.active {
+    color: #00aeed;
+}
+
+.success{
+	margin: 1em auto;
+    padding: 10px;
+    border-radius: 5px;
+    color: #3c763d;
+    background: #dff0d8;
+    border: 1px solid #3c763d;
+    width: 50%;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 1em;
+}
+
+.error{
+	margin: 1em auto;
+    padding: 10px;
+    border-radius: 5px;
+    color: #ff0000;
+    background: #f5d2cf;
+    border: 1px solid #ff0000;
+    width: 50%;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 1em;
+}
+
+.mdi-calendar:before {
+    content: "\F0ED";
+    color: #fff;
+}
+
+.input-group-text {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: .375rem .75rem;
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #ff1212;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+.changeit{
+    display: block;
+    margin: 0 auto;
+}
+.changeit2{
+     display: block;
+    margin: 0 auto;
+    clear: both;
+    padding: 2em 0;
+}
+.btn-top{
+    margin:2em 10em;
+}
+.btn-mode1{
+    text-align: center;
+}
+
+
+.logo img{
+    width:auto;
+}
+
+.inputroyalda{
+    width: 30%;
+    float: left;
+}
